@@ -30,4 +30,4 @@
 *.exe
 *.out
 *.app
-*_HIDE.cpp
+*_.cpp
